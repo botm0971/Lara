@@ -7,13 +7,13 @@
 
     "stack": "container",
   "env": {
-    "SESSION_ID": {TmpxGKYD#0qzM2YCK21V17NK37ABmyYXJsi0urxSLjdDwbQl8ias
+    "SESSION_ID": {TmpxGKYD#0qzM2YCK21V17NK37ABmyYXJsi0urxSLjdDwbQl8ias}
       "description": "Put the session-id here.",
       "required": true,
       "value": ""
     },  
     
-    "PREFIX": {.
+    "PREFIX": {.}
       "description": "Set bot prefix(#,$,-!,?)",
       "required": true,
       "value": "."
